@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+An app to keep track of your to do events.
 
 ## Getting Started
 
